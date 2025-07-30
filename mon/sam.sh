@@ -1,5 +1,8 @@
 #!/bin/bash
 
 ##
-Addition
+Additions
 a+b
+
+sub
+a-b
